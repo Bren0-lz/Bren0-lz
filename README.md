@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🚀 Full Stack & Mobile Dev | 🤖 Criando Agentes de IA e Automações | Engenharia de Computação
 
 
